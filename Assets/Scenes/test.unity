@@ -389,5 +389,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Easy Ch1
       objectReference: {fileID: 0}
+    - target: {fileID: 2202142105765559358, guid: 8eb3fb95d29d547a6babc60bd6b56dc3,
+        type: 3}
+      propertyPath: m_Name
+      value: Group
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 8eb3fb95d29d547a6babc60bd6b56dc3, type: 3}
