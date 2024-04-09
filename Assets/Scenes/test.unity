@@ -332,6 +332,22 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 95000011557838878, guid: 2d5566dda45b8ab4d880254e0c584a67,
+        type: 3}
+      propertyPath: m_Controller
+      value: 
+      objectReference: {fileID: 9100000, guid: 11a6f033fa0a55240a3ec9c019cedf25, type: 2}
+    - target: {fileID: 95000011557838878, guid: 2d5566dda45b8ab4d880254e0c584a67,
+        type: 3}
+      propertyPath: m_WarningMessage
+      value: "\nBinding warning: Some generic clip(s) animate transforms that are
+        already bound by a Humanoid avatar. These transforms can only be changed
+        by Humanoid clips.\n\tTransform 'Bip01 L UpperArm'\n\tTransform 'Bip01 R
+        Finger31'\n\tTransform 'Bip01 L Finger01'\n\tTransform 'Bip01 R UpperArm'\n\tTransform
+        'Bip01 L Finger21'\n\tTransform 'Bip01 R Finger11'\n\tTransform 'Bip01 Head'\n\tTransform
+        'Bip01 L Clavicle'\n\tTransform 'Bip01 R Clavicle'\n\tTransform 'Bip01'\n\tand
+        more ...\n\tFrom animation clip 'idle2'\n\tFrom animation clip 'cheer'"
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 2d5566dda45b8ab4d880254e0c584a67, type: 3}
 --- !u!4 &164307851 stripped
@@ -918,7 +934,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 409244, guid: 0d5049ea8feb48e4e865683a4fd334fd, type: 3}
       propertyPath: m_LocalPosition.z
-      value: 0.07500005
+      value: 0.13
       objectReference: {fileID: 0}
     - target: {fileID: 409244, guid: 0d5049ea8feb48e4e865683a4fd334fd, type: 3}
       propertyPath: m_LocalRotation.y
@@ -1009,7 +1025,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 400120, guid: 2c35d06a5a795804a8271ceccee2ab37, type: 3}
       propertyPath: m_LocalPosition.y
-      value: -0.78556037
+      value: -0.758
       objectReference: {fileID: 0}
     - target: {fileID: 400120, guid: 2c35d06a5a795804a8271ceccee2ab37, type: 3}
       propertyPath: m_LocalPosition.z
@@ -1046,7 +1062,7 @@ PrefabInstance:
     - target: {fileID: 9500000, guid: 2c35d06a5a795804a8271ceccee2ab37, type: 3}
       propertyPath: m_Controller
       value: 
-      objectReference: {fileID: 9100000, guid: e4f6b9dd1bffe6d4bb1f91371659a113, type: 2}
+      objectReference: {fileID: 9100000, guid: ad7ecb136c9d141659f5b5c3c247f1f0, type: 2}
     - target: {fileID: 9500000, guid: 2c35d06a5a795804a8271ceccee2ab37, type: 3}
       propertyPath: m_WarningMessage
       value: "\nBinding warning: Some generic clip(s) animate transforms that are
@@ -2380,11 +2396,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 458460, guid: fa0f33c09ff07e54bb14778e2ad18730, type: 3}
       propertyPath: m_LocalPosition.y
-      value: -0.1
+      value: -0.100000024
       objectReference: {fileID: 0}
     - target: {fileID: 458460, guid: fa0f33c09ff07e54bb14778e2ad18730, type: 3}
       propertyPath: m_LocalPosition.z
-      value: -0.17
+      value: -0.3399999
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: fa0f33c09ff07e54bb14778e2ad18730, type: 3}
@@ -2696,7 +2712,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 432594, guid: 5ddda16c96f01ea44b7dbec34d987522, type: 3}
       propertyPath: m_LocalPosition.x
-      value: -1.9470246
+      value: -2.382
       objectReference: {fileID: 0}
     - target: {fileID: 432594, guid: 5ddda16c96f01ea44b7dbec34d987522, type: 3}
       propertyPath: m_LocalPosition.y
@@ -2704,7 +2720,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 432594, guid: 5ddda16c96f01ea44b7dbec34d987522, type: 3}
       propertyPath: m_LocalPosition.z
-      value: 2.3978834
+      value: 2.3
       objectReference: {fileID: 0}
     - target: {fileID: 432594, guid: 5ddda16c96f01ea44b7dbec34d987522, type: 3}
       propertyPath: m_LocalRotation.w
@@ -2848,7 +2864,7 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Controller
       value: 
-      objectReference: {fileID: 9100000, guid: ad7ecb136c9d141659f5b5c3c247f1f0, type: 2}
+      objectReference: {fileID: 9100000, guid: fff309edbc3d042b2948ba986b8f3018, type: 2}
     - target: {fileID: 95000011209389290, guid: 3120089158d103a4bb19308729aac939,
         type: 3}
       propertyPath: m_WarningMessage
