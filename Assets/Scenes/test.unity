@@ -916,6 +916,14 @@ PrefabInstance:
       propertyPath: m_Name
       value: Table3
       objectReference: {fileID: 0}
+    - target: {fileID: 409244, guid: 0d5049ea8feb48e4e865683a4fd334fd, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0.07500005
+      objectReference: {fileID: 0}
+    - target: {fileID: 409244, guid: 0d5049ea8feb48e4e865683a4fd334fd, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
     - target: {fileID: 431402, guid: 0d5049ea8feb48e4e865683a4fd334fd, type: 3}
       propertyPath: m_RootOrder
       value: 0
@@ -1738,7 +1746,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 472316, guid: b8025c963d73a074f9780ecb0fd8cc2b, type: 3}
       propertyPath: m_LocalPosition.x
-      value: -3.2420247
+      value: -3.258
       objectReference: {fileID: 0}
     - target: {fileID: 472316, guid: b8025c963d73a074f9780ecb0fd8cc2b, type: 3}
       propertyPath: m_LocalPosition.y
@@ -1746,7 +1754,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 472316, guid: b8025c963d73a074f9780ecb0fd8cc2b, type: 3}
       propertyPath: m_LocalPosition.z
-      value: 2.8598833
+      value: 2.748
       objectReference: {fileID: 0}
     - target: {fileID: 472316, guid: b8025c963d73a074f9780ecb0fd8cc2b, type: 3}
       propertyPath: m_LocalRotation.w
@@ -2833,9 +2841,14 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 95000011209389290, guid: 3120089158d103a4bb19308729aac939,
         type: 3}
+      propertyPath: m_Avatar
+      value: 
+      objectReference: {fileID: 9000000, guid: 6f8472c3f21d7f24d82238f2f908dd62, type: 3}
+    - target: {fileID: 95000011209389290, guid: 3120089158d103a4bb19308729aac939,
+        type: 3}
       propertyPath: m_Controller
       value: 
-      objectReference: {fileID: 9100000, guid: 530aae40f0e3c43ffa84979cf18499aa, type: 2}
+      objectReference: {fileID: 9100000, guid: ad7ecb136c9d141659f5b5c3c247f1f0, type: 2}
     - target: {fileID: 95000011209389290, guid: 3120089158d103a4bb19308729aac939,
         type: 3}
       propertyPath: m_WarningMessage
@@ -3052,6 +3065,11 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 1865553233273980534, guid: 8eb3fb95d29d547a6babc60bd6b56dc3,
+        type: 3}
+      propertyPath: m_Name
+      value: NPC
+      objectReference: {fileID: 0}
     - target: {fileID: 1865553234619371611, guid: 8eb3fb95d29d547a6babc60bd6b56dc3,
         type: 3}
       propertyPath: m_IsActive
