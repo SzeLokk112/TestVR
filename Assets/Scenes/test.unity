@@ -715,7 +715,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 431402, guid: 0d5049ea8feb48e4e865683a4fd334fd, type: 3}
       propertyPath: m_LocalPosition.z
-      value: 5.3048835
+      value: 5.235
       objectReference: {fileID: 0}
     - target: {fileID: 431402, guid: 0d5049ea8feb48e4e865683a4fd334fd, type: 3}
       propertyPath: m_LocalRotation.w
@@ -816,6 +816,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 9532914, guid: a497bff226fdfa842b3113876f989fcb, type: 3}
+      propertyPath: m_Controller
+      value: 
+      objectReference: {fileID: 9100000, guid: 24b58f46a7f7d461aae75e27945871ac, type: 2}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: a497bff226fdfa842b3113876f989fcb, type: 3}
 --- !u!4 &570678887 stripped
@@ -1819,6 +1823,38 @@ PrefabInstance:
       propertyPath: m_Name
       value: Chair5 (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 414536, guid: fa0f33c09ff07e54bb14778e2ad18730, type: 3}
+      propertyPath: m_LocalScale.z
+      value: 1.8030951
+      objectReference: {fileID: 0}
+    - target: {fileID: 414536, guid: fa0f33c09ff07e54bb14778e2ad18730, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -0.177
+      objectReference: {fileID: 0}
+    - target: {fileID: 414536, guid: fa0f33c09ff07e54bb14778e2ad18730, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -0.469
+      objectReference: {fileID: 0}
+    - target: {fileID: 414536, guid: fa0f33c09ff07e54bb14778e2ad18730, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0.000000022476456
+      objectReference: {fileID: 0}
+    - target: {fileID: 426982, guid: fa0f33c09ff07e54bb14778e2ad18730, type: 3}
+      propertyPath: m_LocalScale.z
+      value: 1.8030951
+      objectReference: {fileID: 0}
+    - target: {fileID: 426982, guid: fa0f33c09ff07e54bb14778e2ad18730, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -0.177
+      objectReference: {fileID: 0}
+    - target: {fileID: 426982, guid: fa0f33c09ff07e54bb14778e2ad18730, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -0.469
+      objectReference: {fileID: 0}
+    - target: {fileID: 426982, guid: fa0f33c09ff07e54bb14778e2ad18730, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0.000000022476456
+      objectReference: {fileID: 0}
     - target: {fileID: 429586, guid: fa0f33c09ff07e54bb14778e2ad18730, type: 3}
       propertyPath: m_RootOrder
       value: 3
@@ -1866,6 +1902,34 @@ PrefabInstance:
     - target: {fileID: 429586, guid: fa0f33c09ff07e54bb14778e2ad18730, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 453882, guid: fa0f33c09ff07e54bb14778e2ad18730, type: 3}
+      propertyPath: m_LocalScale.z
+      value: 1.8030951
+      objectReference: {fileID: 0}
+    - target: {fileID: 453882, guid: fa0f33c09ff07e54bb14778e2ad18730, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -0.177
+      objectReference: {fileID: 0}
+    - target: {fileID: 453882, guid: fa0f33c09ff07e54bb14778e2ad18730, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -0.469
+      objectReference: {fileID: 0}
+    - target: {fileID: 453882, guid: fa0f33c09ff07e54bb14778e2ad18730, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0.000000022476456
+      objectReference: {fileID: 0}
+    - target: {fileID: 458460, guid: fa0f33c09ff07e54bb14778e2ad18730, type: 3}
+      propertyPath: m_LocalScale.z
+      value: 1.8030951
+      objectReference: {fileID: 0}
+    - target: {fileID: 458460, guid: fa0f33c09ff07e54bb14778e2ad18730, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -0.177
+      objectReference: {fileID: 0}
+    - target: {fileID: 458460, guid: fa0f33c09ff07e54bb14778e2ad18730, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -0.469
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: fa0f33c09ff07e54bb14778e2ad18730, type: 3}
@@ -2006,7 +2070,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 1000012907890262, guid: 3085923c9d88b014998b35c3155d98ec, type: 3}
       propertyPath: m_Name
-      value: ch2_young male1
+      value: ch2_young male2
       objectReference: {fileID: 0}
     - target: {fileID: 1000012907890262, guid: 3085923c9d88b014998b35c3155d98ec, type: 3}
       propertyPath: m_IsActive
@@ -2055,6 +2119,22 @@ PrefabInstance:
     - target: {fileID: 4000010247749758, guid: 3085923c9d88b014998b35c3155d98ec, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 95000012088742762, guid: 3085923c9d88b014998b35c3155d98ec,
+        type: 3}
+      propertyPath: m_Controller
+      value: 
+      objectReference: {fileID: 9100000, guid: 0927c47b714624a98998cc32a8525c9b, type: 2}
+    - target: {fileID: 95000012088742762, guid: 3085923c9d88b014998b35c3155d98ec,
+        type: 3}
+      propertyPath: m_WarningMessage
+      value: "\nBinding warning: Some generic clip(s) animate transforms that are
+        already bound by a Humanoid avatar. These transforms can only be changed
+        by Humanoid clips.\n\tTransform 'Bip01 L UpperArm'\n\tTransform 'Bip01 R
+        Finger31'\n\tTransform 'Bip01 L Finger01'\n\tTransform 'Bip01 R UpperArm'\n\tTransform
+        'Bip01 L Finger21'\n\tTransform 'Bip01 R Finger11'\n\tTransform 'Bip01 Head'\n\tTransform
+        'Bip01 L Clavicle'\n\tTransform 'Bip01 R Clavicle'\n\tTransform 'Bip01'\n\tand
+        more ...\n\tFrom animation clip 'idle2'\n\tFrom animation clip 'cheer'"
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 3085923c9d88b014998b35c3155d98ec, type: 3}
