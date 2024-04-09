@@ -394,7 +394,7 @@ ModelImporter:
     rigImportErrors: 
     rigImportWarnings: "Avatar Rig Configuration mis-match. Bone length in configuration
       does not match position in animation file:\n\t'Bip01 L Thigh' : position error
-      = 6.371671 mm\n\t'Bip01 R Thigh' : position error = 10.324368 mm\n"
+      = 6.534767 mm\n\t'Bip01 R Thigh' : position error = 10.588642 mm\n"
     animationImportErrors: 
     animationImportWarnings: 
     animationRetargetingWarnings: 
@@ -871,7 +871,7 @@ ModelImporter:
       scale: {x: 1, y: 1, z: 1}
     - name: Bip01 Spine1
       parentName: Bip01 Spine
-      position: {x: -0.038, y: -0, z: 0}
+      position: {x: -0.073, y: 0, z: -0}
       rotation: {x: 0, y: 0, z: 0, w: 1}
       scale: {x: 1, y: 1, z: 1.0000001}
     - name: Bip01 Spine2
