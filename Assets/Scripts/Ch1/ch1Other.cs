@@ -2,7 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class other : MonoBehaviour
+public class ch1Other : MonoBehaviour
 {
     private Animator otherAnimator;// Start is called before the first frame update
     void Start()
@@ -19,11 +19,13 @@ public class other : MonoBehaviour
 
     public void StartClapping()
     {
+        otherAnimator.SetBool("listen", false);
         otherAnimator.SetBool("claphands", true);
     }
 
     private void OnDestroy()
     {
+        Joe.JoeStartedTalking -= StartListening;
         Joe.JoeStartedClapping -= StartClapping;
     }
 }
