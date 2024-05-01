@@ -232,7 +232,7 @@ AnimatorController:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: ch2_middle-aged male1
+  m_Name: ch3_middle-aged male look around
   serializedVersion: 5
   m_AnimatorParameters:
   - m_Name: bored
@@ -697,7 +697,7 @@ AnimatorState:
   m_MirrorParameterActive: 0
   m_CycleOffsetParameterActive: 0
   m_TimeParameterActive: 0
-  m_Motion: {fileID: -203655887218126122, guid: 121f3f984102a431b97d690eb5419c5b,
+  m_Motion: {fileID: -203655887218126122, guid: 29b49aa033c864b5796b079d11a4321d,
     type: 3}
   m_Tag: 
   m_SpeedParameter: 
