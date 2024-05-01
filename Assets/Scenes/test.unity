@@ -135,6 +135,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: 'Medium Ch2 '
       objectReference: {fileID: 0}
+    - target: {fileID: 2014024264684397362, guid: f5a3b168026144c258c723b5e6e9c1fd,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 2014024264684397365, guid: f5a3b168026144c258c723b5e6e9c1fd,
         type: 3}
       propertyPath: m_RootOrder
@@ -495,7 +500,7 @@ PrefabInstance:
     - target: {fileID: 8326584377697096207, guid: 84e41d86687414bc1b54cb76fec62c0e,
         type: 3}
       propertyPath: m_IsActive
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 84e41d86687414bc1b54cb76fec62c0e, type: 3}
