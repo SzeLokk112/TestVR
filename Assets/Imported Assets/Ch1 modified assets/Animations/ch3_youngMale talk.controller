@@ -60,7 +60,7 @@ AnimatorController:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: ch2_middle-aged female1
+  m_Name: ch3_youngMale talk
   serializedVersion: 5
   m_AnimatorParameters:
   - m_Name: bored
@@ -68,7 +68,7 @@ AnimatorController:
     m_DefaultFloat: 0
     m_DefaultInt: 0
     m_DefaultBool: 0
-    m_Controller: {fileID: 0}
+    m_Controller: {fileID: 9100000}
   m_AnimatorLayers:
   - serializedVersion: 5
     m_Name: Base Layer
@@ -413,7 +413,7 @@ AnimatorState:
   m_MirrorParameterActive: 0
   m_CycleOffsetParameterActive: 0
   m_TimeParameterActive: 0
-  m_Motion: {fileID: -203655887218126122, guid: 121f3f984102a431b97d690eb5419c5b,
+  m_Motion: {fileID: -203655887218126122, guid: 29b49aa033c864b5796b079d11a4321d,
     type: 3}
   m_Tag: 
   m_SpeedParameter: 
@@ -452,7 +452,7 @@ AnimatorState:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: sitTalk1
+  m_Name: sitTalk3
   m_Speed: 1
   m_CycleOffset: 0
   m_Transitions:
@@ -466,7 +466,7 @@ AnimatorState:
   m_MirrorParameterActive: 0
   m_CycleOffsetParameterActive: 0
   m_TimeParameterActive: 0
-  m_Motion: {fileID: -203655887218126122, guid: 8bee81854064e44288901af5c30d5fcd,
+  m_Motion: {fileID: -203655887218126122, guid: 96a1ace5841414799bb3c5437ecbbf1a,
     type: 3}
   m_Tag: 
   m_SpeedParameter: 

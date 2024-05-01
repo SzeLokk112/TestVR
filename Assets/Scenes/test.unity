@@ -1208,6 +1208,24 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 8276624774763487137, guid: 84e41d86687414bc1b54cb76fec62c0e,
+        type: 3}
+      propertyPath: m_Controller
+      value: 
+      objectReference: {fileID: 9100000, guid: e8fa49d29b11d472f99eb86ceeed08f3, type: 2}
+    - target: {fileID: 8276624774763487137, guid: 84e41d86687414bc1b54cb76fec62c0e,
+        type: 3}
+      propertyPath: m_WarningMessage
+      value: "\nBinding warning: Some generic clip(s) animate transforms that are
+        already bound by a Humanoid avatar. These transforms can only be changed
+        by Humanoid clips.\n\tTransform 'Bip01 L UpperArm'\n\tTransform 'Bip01 R
+        Finger31'\n\tTransform 'Bip01 L Finger01'\n\tTransform 'Bip01 R UpperArm'\n\tTransform
+        'Bip01 L Finger21'\n\tTransform 'Bip01 R Finger11'\n\tTransform 'Bip01 L
+        Foot'\n\tTransform 'Bip01 Head'\n\tTransform 'Bip01 L Calf'\n\tTransform
+        'Bip01 L Clavicle'\n\tand more ...\n\tFrom animation clip 'idle1_f'\n\tFrom
+        animation clip 'idle2_f'\n\tFrom animation clip 'run_f'\n\tFrom animation
+        clip 'talk1_f'\n\tFrom animation clip 'talk2_f'\n\tFrom animation clip 'walk_f'"
+      objectReference: {fileID: 0}
     - target: {fileID: 8276624775569229113, guid: 84e41d86687414bc1b54cb76fec62c0e,
         type: 3}
       propertyPath: m_Avatar
@@ -1231,20 +1249,61 @@ PrefabInstance:
         animation clip 'idle2_f'\n\tFrom animation clip 'run_f'\n\tFrom animation
         clip 'talk1_f'\n\tFrom animation clip 'talk2_f'\n\tFrom animation clip 'walk_f'"
       objectReference: {fileID: 0}
+    - target: {fileID: 8276624775640090438, guid: 84e41d86687414bc1b54cb76fec62c0e,
+        type: 3}
+      propertyPath: m_Avatar
+      value: 
+      objectReference: {fileID: 9000000, guid: eb12d6f439ca0344c826c0bfdcb37a29, type: 3}
+    - target: {fileID: 8276624775640090438, guid: 84e41d86687414bc1b54cb76fec62c0e,
+        type: 3}
+      propertyPath: m_Controller
+      value: 
+      objectReference: {fileID: 9100000, guid: e8fa49d29b11d472f99eb86ceeed08f3, type: 2}
+    - target: {fileID: 8276624775640090438, guid: 84e41d86687414bc1b54cb76fec62c0e,
+        type: 3}
+      propertyPath: m_WarningMessage
+      value: "\nBinding warning: Some generic clip(s) animate transforms that are
+        already bound by a Humanoid avatar. These transforms can only be changed
+        by Humanoid clips.\n\tTransform 'Bip01 L UpperArm'\n\tTransform 'Bip01 R
+        Finger31'\n\tTransform 'Bip01 L Finger01'\n\tTransform 'Bip01 R UpperArm'\n\tTransform
+        'Bip01 R Finger11'\n\tTransform 'Bip01 L Foot'\n\tTransform 'Bip01 Head'\n\tTransform
+        'Bip01 L Calf'\n\tTransform 'Bip01 L Clavicle'\n\tTransform 'Bip01 R Clavicle'\n\tand
+        more ...\n\tFrom animation clip 'idle1_f'\n\tFrom animation clip 'idle2_f'\n\tFrom
+        animation clip 'run_f'\n\tFrom animation clip 'talk1_f'\n\tFrom animation
+        clip 'talk2_f'\n\tFrom animation clip 'walk_f'"
+      objectReference: {fileID: 0}
+    - target: {fileID: 8276625142622808749, guid: 84e41d86687414bc1b54cb76fec62c0e,
+        type: 3}
+      propertyPath: m_Controller
+      value: 
+      objectReference: {fileID: 9100000, guid: ad7ecb136c9d141659f5b5c3c247f1f0, type: 2}
+    - target: {fileID: 8276625142622808749, guid: 84e41d86687414bc1b54cb76fec62c0e,
+        type: 3}
+      propertyPath: m_WarningMessage
+      value: "\nBinding warning: Some generic clip(s) animate transforms that are
+        already bound by a Humanoid avatar. These transforms can only be changed
+        by Humanoid clips.\n\tTransform 'Bip01 L UpperArm'\n\tTransform 'Bip01 R
+        Finger31'\n\tTransform 'Bip01 L Finger01'\n\tTransform 'Bip01 R UpperArm'\n\tTransform
+        'Bip01 L Finger21'\n\tTransform 'Bip01 R Finger11'\n\tTransform 'Bip01 L
+        Foot'\n\tTransform 'Bip01 Head'\n\tTransform 'Bip01 L Calf'\n\tTransform
+        'Bip01 L Clavicle'\n\tand more ...\n\tFrom animation clip 'idle1_f'\n\tFrom
+        animation clip 'idle2_f'\n\tFrom animation clip 'run_f'\n\tFrom animation
+        clip 'talk1_f'\n\tFrom animation clip 'talk2_f'\n\tFrom animation clip 'walk_f'"
+      objectReference: {fileID: 0}
     - target: {fileID: 8323240998786313147, guid: 84e41d86687414bc1b54cb76fec62c0e,
         type: 3}
       propertyPath: m_LocalPosition.x
-      value: -9.661
+      value: -9.14
       objectReference: {fileID: 0}
     - target: {fileID: 8323240998786313147, guid: 84e41d86687414bc1b54cb76fec62c0e,
         type: 3}
       propertyPath: m_LocalPosition.y
-      value: -1.354
+      value: -1.24
       objectReference: {fileID: 0}
     - target: {fileID: 8323240998786313147, guid: 84e41d86687414bc1b54cb76fec62c0e,
         type: 3}
       propertyPath: m_LocalPosition.z
-      value: 7.647
+      value: 7.52
       objectReference: {fileID: 0}
     - target: {fileID: 8323240998786313147, guid: 84e41d86687414bc1b54cb76fec62c0e,
         type: 3}
@@ -1264,17 +1323,17 @@ PrefabInstance:
     - target: {fileID: 8323722610042545057, guid: 84e41d86687414bc1b54cb76fec62c0e,
         type: 3}
       propertyPath: m_LocalPosition.x
-      value: -10.676
+      value: -10.06
       objectReference: {fileID: 0}
     - target: {fileID: 8323722610042545057, guid: 84e41d86687414bc1b54cb76fec62c0e,
         type: 3}
       propertyPath: m_LocalPosition.y
-      value: -1.349
+      value: -1.26
       objectReference: {fileID: 0}
     - target: {fileID: 8323722610042545057, guid: 84e41d86687414bc1b54cb76fec62c0e,
         type: 3}
       propertyPath: m_LocalPosition.z
-      value: 7.226
+      value: 7.19
       objectReference: {fileID: 0}
     - target: {fileID: 8323722610042545057, guid: 84e41d86687414bc1b54cb76fec62c0e,
         type: 3}
@@ -1414,27 +1473,27 @@ PrefabInstance:
     - target: {fileID: 8323722611977017326, guid: 84e41d86687414bc1b54cb76fec62c0e,
         type: 3}
       propertyPath: m_LocalPosition.x
-      value: -10.52
+      value: -10.86
       objectReference: {fileID: 0}
     - target: {fileID: 8323722611977017326, guid: 84e41d86687414bc1b54cb76fec62c0e,
         type: 3}
       propertyPath: m_LocalPosition.y
-      value: -1.05
+      value: -1.26
       objectReference: {fileID: 0}
     - target: {fileID: 8323722611977017326, guid: 84e41d86687414bc1b54cb76fec62c0e,
         type: 3}
       propertyPath: m_LocalPosition.z
-      value: 5.12
+      value: 6.87
       objectReference: {fileID: 0}
     - target: {fileID: 8323722611977017326, guid: 84e41d86687414bc1b54cb76fec62c0e,
         type: 3}
       propertyPath: m_LocalRotation.w
-      value: 0.9835016
+      value: 0.9822242
       objectReference: {fileID: 0}
     - target: {fileID: 8323722611977017326, guid: 84e41d86687414bc1b54cb76fec62c0e,
         type: 3}
       propertyPath: m_LocalRotation.y
-      value: -0.18089952
+      value: -0.18771169
       objectReference: {fileID: 0}
     - target: {fileID: 8323722611977017326, guid: 84e41d86687414bc1b54cb76fec62c0e,
         type: 3}
@@ -1646,6 +1705,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalPosition.y
       value: 0.75
+      objectReference: {fileID: 0}
+    - target: {fileID: 8326722371845109682, guid: 84e41d86687414bc1b54cb76fec62c0e,
+        type: 3}
+      propertyPath: m_Name
+      value: ch3_0young female2
       objectReference: {fileID: 0}
     - target: {fileID: 8326722372942601895, guid: 84e41d86687414bc1b54cb76fec62c0e,
         type: 3}
