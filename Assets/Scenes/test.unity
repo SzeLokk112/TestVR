@@ -213,7 +213,7 @@ PrefabInstance:
     - target: {fileID: 2014024264684397362, guid: f5a3b168026144c258c723b5e6e9c1fd,
         type: 3}
       propertyPath: m_IsActive
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 2014024264684397365, guid: f5a3b168026144c258c723b5e6e9c1fd,
         type: 3}
@@ -1402,7 +1402,18 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Controller
       value: 
-      objectReference: {fileID: 9100000, guid: fc97d70d4a2974e638c3c38f663583b7, type: 2}
+      objectReference: {fileID: 9100000, guid: 428763851cbb14d398c7b163262bea59, type: 2}
+    - target: {fileID: 8276624777194998358, guid: 84e41d86687414bc1b54cb76fec62c0e,
+        type: 3}
+      propertyPath: m_WarningMessage
+      value: "\nBinding warning: Some generic clip(s) animate transforms that are
+        already bound by a Humanoid avatar. These transforms can only be changed
+        by Humanoid clips.\n\tTransform 'Bip01 L UpperArm'\n\tTransform 'Bip01 R
+        Finger31'\n\tTransform 'Bip01 L Finger01'\n\tTransform 'Bip01 R UpperArm'\n\tTransform
+        'Bip01 L Finger21'\n\tTransform 'Bip01 R Finger11'\n\tTransform 'Bip01 Head'\n\tTransform
+        'Bip01 L Clavicle'\n\tTransform 'Bip01 R Clavicle'\n\tTransform 'Bip01'\n\tand
+        more ...\n\tFrom animation clip 'idle2'\n\tFrom animation clip 'cheer'"
+      objectReference: {fileID: 0}
     - target: {fileID: 8276624777443772134, guid: 84e41d86687414bc1b54cb76fec62c0e,
         type: 3}
       propertyPath: m_Avatar
@@ -1787,22 +1798,22 @@ PrefabInstance:
     - target: {fileID: 8326584378946867901, guid: 84e41d86687414bc1b54cb76fec62c0e,
         type: 3}
       propertyPath: m_Name
-      value: ch3_young male2
+      value: ch3_0young male2
       objectReference: {fileID: 0}
     - target: {fileID: 8326584378947043885, guid: 84e41d86687414bc1b54cb76fec62c0e,
         type: 3}
       propertyPath: m_LocalPosition.x
-      value: -17.72
+      value: -17.89
       objectReference: {fileID: 0}
     - target: {fileID: 8326584378947043885, guid: 84e41d86687414bc1b54cb76fec62c0e,
         type: 3}
       propertyPath: m_LocalPosition.y
-      value: -1.07
+      value: -0.916
       objectReference: {fileID: 0}
     - target: {fileID: 8326584378947043885, guid: 84e41d86687414bc1b54cb76fec62c0e,
         type: 3}
       propertyPath: m_LocalPosition.z
-      value: 4.94
+      value: 4.5
       objectReference: {fileID: 0}
     - target: {fileID: 8326584378947043885, guid: 84e41d86687414bc1b54cb76fec62c0e,
         type: 3}
@@ -1819,6 +1830,11 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.y
       value: 20.746
       objectReference: {fileID: 0}
+    - target: {fileID: 8326584378954235123, guid: 84e41d86687414bc1b54cb76fec62c0e,
+        type: 3}
+      propertyPath: m_Controller
+      value: 
+      objectReference: {fileID: 9100000, guid: fc97d70d4a2974e638c3c38f663583b7, type: 2}
     - target: {fileID: 8326584379058590244, guid: 84e41d86687414bc1b54cb76fec62c0e,
         type: 3}
       propertyPath: m_Name
@@ -1868,7 +1884,7 @@ PrefabInstance:
     - target: {fileID: 8326722371845109682, guid: 84e41d86687414bc1b54cb76fec62c0e,
         type: 3}
       propertyPath: m_Name
-      value: ch3_0young female2
+      value: ch3_young female2
       objectReference: {fileID: 0}
     - target: {fileID: 8326722372942601895, guid: 84e41d86687414bc1b54cb76fec62c0e,
         type: 3}
