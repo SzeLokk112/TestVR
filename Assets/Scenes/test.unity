@@ -1334,6 +1334,27 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 8276624774403666765, guid: 84e41d86687414bc1b54cb76fec62c0e,
+        type: 3}
+      propertyPath: m_Controller
+      value: 
+      objectReference: {fileID: 9100000, guid: e77d91c4d506e456e8c527cc5ccf898a, type: 2}
+    - target: {fileID: 8276624774535408399, guid: 84e41d86687414bc1b54cb76fec62c0e,
+        type: 3}
+      propertyPath: m_Controller
+      value: 
+      objectReference: {fileID: 9100000, guid: 4c0f47d3ba93b4249a7589bd31728319, type: 2}
+    - target: {fileID: 8276624774535408399, guid: 84e41d86687414bc1b54cb76fec62c0e,
+        type: 3}
+      propertyPath: m_WarningMessage
+      value: "\nBinding warning: Some generic clip(s) animate transforms that are
+        already bound by a Humanoid avatar. These transforms can only be changed
+        by Humanoid clips.\n\tTransform 'Bip01 L UpperArm'\n\tTransform 'Bip01 R
+        Finger31'\n\tTransform 'Bip01 L Finger01'\n\tTransform 'Bip01 R UpperArm'\n\tTransform
+        'Bip01 L Finger21'\n\tTransform 'Bip01 R Finger11'\n\tTransform 'Bip01 Head'\n\tTransform
+        'Bip01 L Clavicle'\n\tTransform 'Bip01 R Clavicle'\n\tTransform 'Bip01'\n\tand
+        more ...\n\tFrom animation clip 'idle2'\n\tFrom animation clip 'cheer'"
+      objectReference: {fileID: 0}
     - target: {fileID: 8276624774763487137, guid: 84e41d86687414bc1b54cb76fec62c0e,
         type: 3}
       propertyPath: m_Controller
@@ -1518,17 +1539,17 @@ PrefabInstance:
     - target: {fileID: 8323722610112928223, guid: 84e41d86687414bc1b54cb76fec62c0e,
         type: 3}
       propertyPath: m_LocalPosition.x
-      value: -10.41
+      value: -10.26
       objectReference: {fileID: 0}
     - target: {fileID: 8323722610112928223, guid: 84e41d86687414bc1b54cb76fec62c0e,
         type: 3}
       propertyPath: m_LocalPosition.y
-      value: -0.77
+      value: -0.62
       objectReference: {fileID: 0}
     - target: {fileID: 8323722610112928223, guid: 84e41d86687414bc1b54cb76fec62c0e,
         type: 3}
       propertyPath: m_LocalPosition.z
-      value: 2.67
+      value: 2.1899998
       objectReference: {fileID: 0}
     - target: {fileID: 8323722610112928223, guid: 84e41d86687414bc1b54cb76fec62c0e,
         type: 3}
@@ -1548,17 +1569,17 @@ PrefabInstance:
     - target: {fileID: 8323722610181020729, guid: 84e41d86687414bc1b54cb76fec62c0e,
         type: 3}
       propertyPath: m_LocalPosition.x
-      value: -15.109
+      value: -14.700001
       objectReference: {fileID: 0}
     - target: {fileID: 8323722610181020729, guid: 84e41d86687414bc1b54cb76fec62c0e,
         type: 3}
       propertyPath: m_LocalPosition.y
-      value: -1.009
+      value: -0.93
       objectReference: {fileID: 0}
     - target: {fileID: 8323722610181020729, guid: 84e41d86687414bc1b54cb76fec62c0e,
         type: 3}
       propertyPath: m_LocalPosition.z
-      value: 4.173
+      value: 3.5800002
       objectReference: {fileID: 0}
     - target: {fileID: 8323722610181020729, guid: 84e41d86687414bc1b54cb76fec62c0e,
         type: 3}
