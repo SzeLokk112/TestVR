@@ -213,7 +213,7 @@ PrefabInstance:
     - target: {fileID: 2014024264684397362, guid: f5a3b168026144c258c723b5e6e9c1fd,
         type: 3}
       propertyPath: m_IsActive
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 2014024264684397365, guid: f5a3b168026144c258c723b5e6e9c1fd,
         type: 3}
@@ -1398,6 +1398,11 @@ PrefabInstance:
         animation clip 'run_f'\n\tFrom animation clip 'talk1_f'\n\tFrom animation
         clip 'talk2_f'\n\tFrom animation clip 'walk_f'"
       objectReference: {fileID: 0}
+    - target: {fileID: 8276624777194998358, guid: 84e41d86687414bc1b54cb76fec62c0e,
+        type: 3}
+      propertyPath: m_Controller
+      value: 
+      objectReference: {fileID: 9100000, guid: fc97d70d4a2974e638c3c38f663583b7, type: 2}
     - target: {fileID: 8276624777443772134, guid: 84e41d86687414bc1b54cb76fec62c0e,
         type: 3}
       propertyPath: m_Avatar
@@ -1592,27 +1597,27 @@ PrefabInstance:
     - target: {fileID: 8323722611935209296, guid: 84e41d86687414bc1b54cb76fec62c0e,
         type: 3}
       propertyPath: m_LocalPosition.x
-      value: -18.677
+      value: -17.91
       objectReference: {fileID: 0}
     - target: {fileID: 8323722611935209296, guid: 84e41d86687414bc1b54cb76fec62c0e,
         type: 3}
       propertyPath: m_LocalPosition.y
-      value: -0.62
+      value: -0.657
       objectReference: {fileID: 0}
     - target: {fileID: 8323722611935209296, guid: 84e41d86687414bc1b54cb76fec62c0e,
         type: 3}
       propertyPath: m_LocalPosition.z
-      value: 3.322
+      value: 2.3700001
       objectReference: {fileID: 0}
     - target: {fileID: 8323722611935209296, guid: 84e41d86687414bc1b54cb76fec62c0e,
         type: 3}
       propertyPath: m_LocalRotation.w
-      value: 0.98087204
+      value: 0.9808721
       objectReference: {fileID: 0}
     - target: {fileID: 8323722611935209296, guid: 84e41d86687414bc1b54cb76fec62c0e,
         type: 3}
       propertyPath: m_LocalRotation.y
-      value: 0.19465363
+      value: 0.19465365
       objectReference: {fileID: 0}
     - target: {fileID: 8323722611935209296, guid: 84e41d86687414bc1b54cb76fec62c0e,
         type: 3}
