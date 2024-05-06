@@ -1442,7 +1442,7 @@ PrefabInstance:
     - target: {fileID: 8323240998786313147, guid: 84e41d86687414bc1b54cb76fec62c0e,
         type: 3}
       propertyPath: m_LocalPosition.x
-      value: -9.14
+      value: -9.363
       objectReference: {fileID: 0}
     - target: {fileID: 8323240998786313147, guid: 84e41d86687414bc1b54cb76fec62c0e,
         type: 3}
@@ -1452,7 +1452,7 @@ PrefabInstance:
     - target: {fileID: 8323240998786313147, guid: 84e41d86687414bc1b54cb76fec62c0e,
         type: 3}
       propertyPath: m_LocalPosition.z
-      value: 7.52
+      value: 7.394
       objectReference: {fileID: 0}
     - target: {fileID: 8323240998786313147, guid: 84e41d86687414bc1b54cb76fec62c0e,
         type: 3}
@@ -1472,7 +1472,7 @@ PrefabInstance:
     - target: {fileID: 8323722610042545057, guid: 84e41d86687414bc1b54cb76fec62c0e,
         type: 3}
       propertyPath: m_LocalPosition.x
-      value: -10.06
+      value: -9.978
       objectReference: {fileID: 0}
     - target: {fileID: 8323722610042545057, guid: 84e41d86687414bc1b54cb76fec62c0e,
         type: 3}
@@ -1482,7 +1482,7 @@ PrefabInstance:
     - target: {fileID: 8323722610042545057, guid: 84e41d86687414bc1b54cb76fec62c0e,
         type: 3}
       propertyPath: m_LocalPosition.z
-      value: 7.19
+      value: 7.222
       objectReference: {fileID: 0}
     - target: {fileID: 8323722610042545057, guid: 84e41d86687414bc1b54cb76fec62c0e,
         type: 3}
@@ -1622,17 +1622,17 @@ PrefabInstance:
     - target: {fileID: 8323722611977017326, guid: 84e41d86687414bc1b54cb76fec62c0e,
         type: 3}
       propertyPath: m_LocalPosition.x
-      value: -10.86
+      value: -10.5720005
       objectReference: {fileID: 0}
     - target: {fileID: 8323722611977017326, guid: 84e41d86687414bc1b54cb76fec62c0e,
         type: 3}
       propertyPath: m_LocalPosition.y
-      value: -1.26
+      value: -1.224
       objectReference: {fileID: 0}
     - target: {fileID: 8323722611977017326, guid: 84e41d86687414bc1b54cb76fec62c0e,
         type: 3}
       propertyPath: m_LocalPosition.z
-      value: 6.87
+      value: 6.884
       objectReference: {fileID: 0}
     - target: {fileID: 8323722611977017326, guid: 84e41d86687414bc1b54cb76fec62c0e,
         type: 3}
