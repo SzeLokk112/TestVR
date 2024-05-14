@@ -1581,6 +1581,11 @@ PrefabInstance:
         animation clip 'run_f'\n\tFrom animation clip 'talk1_f'\n\tFrom animation
         clip 'talk2_f'\n\tFrom animation clip 'walk_f'"
       objectReference: {fileID: 0}
+    - target: {fileID: 8276624777108291304, guid: 84e41d86687414bc1b54cb76fec62c0e,
+        type: 3}
+      propertyPath: m_Controller
+      value: 
+      objectReference: {fileID: 9100000, guid: 272800c66085743a6a112491cd445a10, type: 2}
     - target: {fileID: 8276624777194998358, guid: 84e41d86687414bc1b54cb76fec62c0e,
         type: 3}
       propertyPath: m_Controller
@@ -1866,32 +1871,32 @@ PrefabInstance:
     - target: {fileID: 8323722613990114690, guid: 84e41d86687414bc1b54cb76fec62c0e,
         type: 3}
       propertyPath: m_LocalPosition.x
-      value: -18.786
+      value: -18.57
       objectReference: {fileID: 0}
     - target: {fileID: 8323722613990114690, guid: 84e41d86687414bc1b54cb76fec62c0e,
         type: 3}
       propertyPath: m_LocalPosition.y
-      value: -1.35
+      value: -1.274
       objectReference: {fileID: 0}
     - target: {fileID: 8323722613990114690, guid: 84e41d86687414bc1b54cb76fec62c0e,
         type: 3}
       propertyPath: m_LocalPosition.z
-      value: 7.721
+      value: 7.17
       objectReference: {fileID: 0}
     - target: {fileID: 8323722613990114690, guid: 84e41d86687414bc1b54cb76fec62c0e,
         type: 3}
       propertyPath: m_LocalRotation.w
-      value: 0.9888706
+      value: 0.97760695
       objectReference: {fileID: 0}
     - target: {fileID: 8323722613990114690, guid: 84e41d86687414bc1b54cb76fec62c0e,
         type: 3}
       propertyPath: m_LocalRotation.y
-      value: 0.14877807
+      value: 0.21043934
       objectReference: {fileID: 0}
     - target: {fileID: 8323722613990114690, guid: 84e41d86687414bc1b54cb76fec62c0e,
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.y
-      value: 17.112
+      value: 24.296
       objectReference: {fileID: 0}
     - target: {fileID: 8326584377697096204, guid: 84e41d86687414bc1b54cb76fec62c0e,
         type: 3}
